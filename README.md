@@ -13,6 +13,9 @@ Built with **LangChain**, **HuggingFace**, and **FAISS** — fully open-source, 
 5. **Retrieve** — Finds the top-4 most relevant chunks for your question
 6. **Generate** — An LLM answers using only those chunks (no hallucination)
 
+## Quickdemo
+Use my google colab [link](https://colab.research.google.com/drive/1U42agBz71F9vGsaTATB4tLpN35e-SObZ?usp=sharing)
+
 ## Quickstart
 
 ```bash
