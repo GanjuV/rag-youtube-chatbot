@@ -1,0 +1,22 @@
+[project]
+name = "rag-youtube-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.136.1",
+    "huggingface-hub>=1.12.0",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.3.2",
+    "langchain-huggingface>=1.2.2",
+    "langchain-text-splitters>=1.1.2",
+    "transformers>=5.6.2",
+    "uvicorn[standard]>=0.46.0",
+    "youtube-transcript-api",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]

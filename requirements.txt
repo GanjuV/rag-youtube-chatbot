@@ -1,0 +1,14 @@
+requests==2.32.4
+youtube-transcript-api
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-core
+transformers
+huggingface-hub
+faiss-cpu
+tiktoken
+python-dotenv
+fastapi
+uvicorn
+pytest
